@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "tags": ["Sci-Fi", "Thriller"],
+    "poster": "https://example.com/inception.jpg",
+    "description": "A mind-bending thriller about dream manipulation."
+  },
+  {
+    "id": 2,
+    "title": "Titanic",
+    "genre": "Romance",
+    "tags": ["Romance", "Drama"],
+    "poster": "https://example.com/titanic.jpg",
+    "description": "A tragic love story set on the ill-fated Titanic."
+  }
+]
